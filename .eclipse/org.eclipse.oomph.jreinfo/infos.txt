@@ -1,0 +1,2 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home:11:0:1:64:true:1538828945000
+/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home:11:0:2:64:true:1547800533000
